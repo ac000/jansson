@@ -33,3 +33,6 @@ stamp-h1
 *.exe
 .idea
 cmake-build-debug/
+android/jansson_private_config.h
+libs/
+obj/
