@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 
-export ANDROID_NDK=${ANDROID_NDK:-~/android-ndk-r19b}
+export ANDROID_NDK=${ANDROID_NDK:-~/android-ndk-r21}
 export TOOLCHAIN=${ANDROID_NDK}/toolchains/llvm/prebuilt/linux-x86_64
 
 function do_ndk()
